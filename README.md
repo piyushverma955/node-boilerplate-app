@@ -6,5 +6,5 @@ This application will give you a basic template for a node.Js application includ
 #How to run
 
 npm i </br>
-node app.js <Project Name>
+node app.js {Project Name}
 
